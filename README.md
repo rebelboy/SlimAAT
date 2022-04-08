@@ -9,7 +9,7 @@
 
 - arduino nano      x1
 
-- 9g 舵机           x1  
+- 9g 180度舵机           x2  
 
 - HMC5883L          x1
 
